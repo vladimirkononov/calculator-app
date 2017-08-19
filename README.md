@@ -1,4 +1,4 @@
-# Basic Project :+1:
+# Calculator Application :+1:
 
 *Structure for creating a Calculator Java Application.*
 
